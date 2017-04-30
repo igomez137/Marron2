@@ -97,7 +97,7 @@ public MyOfferManager () {
 
 		        rhB.close();
 		    }
-		    //@WebMethod
+		    @WebMethod
 
 		    @Override
 		    public void ElimiOferCasas(){
